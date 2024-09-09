@@ -108,6 +108,8 @@ public class Atm {
         
         a.welcome();
         
+        System.out.println("success");
+        
         
     }
 }
